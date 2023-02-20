@@ -1,12 +1,8 @@
----
-title: Markdown
-author: Yufei Cheng
-date: 0001-01-01
-category: Jekyll
-layout: post
----
-
 <!-- Headings -->
+# Heading 1
+## Heading 2
+### Heading 3
+
 ```markdown
 # Heading 1
 ## Heading 2
