@@ -14,10 +14,24 @@ nav:
   - Getting Started:
     - Introduction: ''
   - Demos:
-    - Test: demos/0001-01-01-markdown
-    - Markdown: demos/markdown2y
+    - Test: demos/markdown2y copy
+    - Markdown2: demos/markdown2y
     - Markdown: demos/markdown
     - Another Page: demos/another-page
     - Table of Contents: demos/toc
   - Demos2:
+    - Table of Contents2: demos/toc
+  - Demos3:
+    - Table of Contents2: demos/toc
+  - Demos4:
+    - Table of Contents2: demos/toc
+  - Demos5:
+    - Table of Contents2: demos/toc
+  - Demos6:
+    - Table of Contents2: demos/toc
+  - Demos7:
+    - Table of Contents2: demos/toc
+  - Demos8:
+    - Table of Contents2: demos/toc
+  - Demos9:
     - Table of Contents2: demos/toc
