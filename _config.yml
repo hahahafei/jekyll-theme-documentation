@@ -15,6 +15,9 @@ nav:
     - Introduction: ''
   - Demos:
     - Test: demos/0001-01-01-markdown
+    - Markdown: demos/markdown2y
     - Markdown: demos/markdown
     - Another Page: demos/another-page
     - Table of Contents: demos/toc
+  - Demos2:
+    - Table of Contents2: demos/toc
