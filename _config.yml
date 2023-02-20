@@ -11,27 +11,8 @@ remote_theme: marella/jekyll-theme-documentation
 
 permalink: pretty
 nav:
-  - Getting Started:
-    - Introduction: ''
-  - Demos:
+  - Content:
     - Test: demos/markdown2y copy
-    - Markdown2: demos/markdown2y
     - Markdown: demos/markdown
     - Another Page: demos/another-page
     - Table of Contents: demos/toc
-  - Demos2:
-    - Table of Contents2: demos/toc
-  - Demos3:
-    - Table of Contents2: demos/toc
-  - Demos4:
-    - Table of Contents2: demos/toc
-  - Demos5:
-    - Table of Contents2: demos/toc
-  - Demos6:
-    - Table of Contents2: demos/toc
-  - Demos7:
-    - Table of Contents2: demos/toc
-  - Demos8:
-    - Table of Contents2: demos/toc
-  - Demos9:
-    - Table of Contents2: demos/toc
