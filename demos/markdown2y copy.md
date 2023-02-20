@@ -36,7 +36,7 @@
 
 <!-- image -->
 ![image](posts_assets/markdown_image_example.png)
-<img src="posts_assets/markdown_image_example.png" width="200px">
+<img src="/posts_assets/markdown_image_example.png" width="200px">
 
 ```markdown
 ![image](posts_assets/markdown_image_example.png)
