@@ -76,13 +76,13 @@
 
 <!-- table -->
 | Item   | Description |
-| ------ | ----------- |
+|:------ |:----------- |
 | No.1   | Test1       |
 | No.2   | Test2       |
 
 ```markdown
 | Item   | Description |
-| ------ | ----------- |
+|:------ |:----------- |
 | No.1   | Test1       |
 | No.2   | Test2       |
 ```
